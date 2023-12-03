@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-03T15:43:51.959668400Z</date>
+  <millis>1701618231959</millis>
+  <nanos>668400</nanos>
+  <sequence>0</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>clases.Datos</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Inicio del programa</message>
+</record>
+<record>
+  <date>2023-12-03T15:43:52.021205200Z</date>
+  <millis>1701618232021</millis>
+  <nanos>205200</nanos>
+  <sequence>1</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaInicio</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Iniciando Ventana de Inicio</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.624712400Z</date>
+  <millis>1701618254624</millis>
+  <nanos>712400</nanos>
+  <sequence>2</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creación de ventana de chat para usuario: 470</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.626713400Z</date>
+  <millis>1701618254626</millis>
+  <nanos>713400</nanos>
+  <sequence>3</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat</class>
+  <method>lanzaCliente</method>
+  <thread>26</thread>
+  <message>Lanzando cliente ; Usuario: 470</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.636237300Z</date>
+  <millis>1701618254636</millis>
+  <nanos>237300</nanos>
+  <sequence>4</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 25</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.648238600Z</date>
+  <millis>1701618254648</millis>
+  <nanos>238600</nanos>
+  <sequence>5</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 844</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.651238300Z</date>
+  <millis>1701618254651</millis>
+  <nanos>238300</nanos>
+  <sequence>6</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 305</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.655237800Z</date>
+  <millis>1701618254655</millis>
+  <nanos>237800</nanos>
+  <sequence>7</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 363</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.658237400Z</date>
+  <millis>1701618254658</millis>
+  <nanos>237400</nanos>
+  <sequence>8</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 27</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.661237800Z</date>
+  <millis>1701618254661</millis>
+  <nanos>237800</nanos>
+  <sequence>9</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$MiPanelChat</class>
+  <method>&lt;init&gt;</method>
+  <thread>21</thread>
+  <message>Creacion panel chat entre: 470 y 901</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:14.731767300Z</date>
+  <millis>1701618254731</millis>
+  <nanos>767300</nanos>
+  <sequence>10</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.PnlLogIn$1</class>
+  <method>actionPerformed</method>
+  <thread>21</thread>
+  <message>Usuario user1@deusto.es ha iniciado sesión</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:19.618465400Z</date>
+  <millis>1701618259618</millis>
+  <nanos>465400</nanos>
+  <sequence>11</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat$3</class>
+  <method>windowClosing</method>
+  <thread>21</thread>
+  <message>Usuario: 470 cierra su ventana de chat, se procede a cerrar la comunicación</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:19.691760600Z</date>
+  <millis>1701618259691</millis>
+  <nanos>760600</nanos>
+  <sequence>12</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaChat</class>
+  <method>lanzaCliente</method>
+  <thread>26</thread>
+  <message>Cerrando conexion con el servidor ; usuario: 470</message>
+</record>
+<record>
+  <date>2023-12-03T15:44:20.650168700Z</date>
+  <millis>1701618260650</millis>
+  <nanos>168700</nanos>
+  <sequence>13</sequence>
+  <logger>logger-chat</logger>
+  <level>INFO</level>
+  <class>gui.VentanaInicio$1</class>
+  <method>windowClosed</method>
+  <thread>21</thread>
+  <message>Cerrando Ventana de Inicio</message>
+</record>
+</log>
